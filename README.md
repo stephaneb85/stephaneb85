@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stephaneb85
-- 👀 I’m interested in  the developpement
+- 👀 I’m interested in the developpement
 - 💞️ I’m looking to collaborate on  projetcs front end  et back end.
 - 📫 How to reach me  par email: bausseronstephane@gmail.com
 
